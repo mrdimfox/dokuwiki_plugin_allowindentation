@@ -3,15 +3,16 @@
 Allow to use indentation in wiki text and disable rendering indented blocks as
 a preformatted text.
 
-All documentation for this plugin can be found at
-https://www.dokuwiki.org/plugin:allowindentation
+Documentation and examples for this plugin can be found at Dokuwiki plugin
+page:
+[plugin:allowindentation](https://www.dokuwiki.org/plugin:allowindentation).
 
 If you install this plugin manually, make sure it is installed in
-lib/plugins/allowindentation/ - if the folder is called different it
-will not work!
+lib/plugins/allowindentation/ - if the folder is called different it will not
+work!
 
-Please refer to http://www.dokuwiki.org/plugins for additional info
-on how to install plugins in DokuWiki.
+Please refer to http://www.dokuwiki.org/plugins for additional info on how to
+install plugins in DokuWiki.
 
 ----
 
