@@ -1,6 +1,6 @@
 # Allow Indentation Plugin for DokuWiki
 
-Allow to use indentation in wiki text and disable rendering indented blocks as
+Allow using an indentation in wiki text and disable rendering indented blocks as
 a preformatted text.
 
 Documentation and examples for this plugin can be found at Dokuwiki plugin
