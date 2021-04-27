@@ -1,7 +1,7 @@
 base   allowindentation
 author Lisin Dmitriy
 email  mrlisdim@gmail.com
-date   2021-04-27
+date   2021-04-27.1
 name   Allow Indentation Plugin
 desc   Allow using an indentation in wiki text and disable rendering indented blocks as a preformatted text.
-url    https://github.com/mrdimfox/dokuwiki_plugin_allowindentation
+url    https://www.dokuwiki.org/plugin:allowindentation
