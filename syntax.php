@@ -2,7 +2,7 @@
 /**
  * Allow Indentation DokuWiki Plugin (Syntax Component)
  *
- * Allow to use indentation in wiki text and disable a rendering indented
+ * Allow using an indentation in wiki text and disable a rendering indented
  * blocks as a preformatted text.
  *
  * @license MIT https://opensource.org/licenses/MIT
